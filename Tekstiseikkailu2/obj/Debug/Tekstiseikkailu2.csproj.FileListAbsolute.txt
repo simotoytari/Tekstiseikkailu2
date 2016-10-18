@@ -1,1 +1,2 @@
 C:\MyTemp\ohj1\sitoytar\Tekstiseikkailu2\Tekstiseikkailu2\bin\Debug\Tekstiseikkailu2.exe.config
+C:\Users\omistaja\Documents\Niko\Yliopisto\TIEA241 Automaatit ja kieliopit\Harkkatyö\Tekstiseikkailu2-master\Tekstiseikkailu2\bin\Debug\Tekstiseikkailu2.exe.config
