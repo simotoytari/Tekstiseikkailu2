@@ -13,6 +13,7 @@ namespace Tekstiseikkailu2
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("Tekstiseikkailu2!!!");
+            Console.WriteLine("asdasd");
             Console.ReadKey();
         }
     }
